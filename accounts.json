@@ -1,0 +1,58 @@
+{
+  "people": [
+    {
+      "name": "S S",
+      "PIN": 2272,
+      "acc_number": 1,
+      "acc_balance": 1960000
+    },
+    {
+      "name": "S S",
+      "PIN": 7001,
+      "acc_number": 2,
+      "acc_balance": 600700
+    },
+    {
+      "name": "PSle",
+      "PIN": 2001,
+      "acc_number": 3,
+      "acc_balance": 0
+    },
+    {
+      "name": "SS",
+      "PIN": 1999,
+      "acc_number": 4,
+      "acc_balance": 400300
+    },
+    {
+      "name": "SS",
+      "PIN": 1301,
+      "acc_number": 5,
+      "acc_balance": 146690
+    },
+    {
+      "name": "SSS",
+      "PIN": 1100,
+      "acc_number": 6,
+      "acc_balance": 0
+    },
+    {
+      "name": "Salman Lol",
+      "PIN": 1234,
+      "acc_number": 7,
+      "acc_balance": 123
+    },
+    {
+      "name": "S S S",
+      "PIN": 1234,
+      "acc_number": 8,
+      "acc_balance": 0
+    },
+    {
+      "name": "Salman a s",
+      "PIN": 4444,
+      "acc_number": 9,
+      "acc_balance": 1241
+    }
+  ]
+}
